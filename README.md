@@ -49,17 +49,15 @@ Git · GitHub · GitLab
 ---
 
 ## 📈 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=siddhesh888&color=blue)
 
-![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddheshviklele&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshviklele&layout=compact&theme=tokyonight)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=siddhesh888&theme=tokyonight)
 ---
 
 ## 📫 Let's Connect!
 - 💼 LinkedIn: https://www.linkedin.com/in/siddhesh-sawant-37a919193/  
 - 📧 Email: siddheshsawant888@gmail.com  
-- 🌐 Portfolio: *(Add your portfolio link here)*  
+- 🌐 Portfolio:  
 
 ---
 
