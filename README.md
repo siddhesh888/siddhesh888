@@ -47,13 +47,6 @@ Git · GitHub · GitLab
 - 📊 Built **monitoring & alerting systems** using Prometheus & Grafana  
 
 ---
-
-## 📈 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=siddhesh888&color=blue)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=siddhesh888&theme=tokyonight)
----
-
 ## 📫 Let's Connect!
 - 💼 LinkedIn: https://www.linkedin.com/in/siddhesh-sawant-37a919193/  
 - 📧 Email: siddheshsawant888@gmail.com  
