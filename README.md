@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Siddhesh Sawant  
 ### 🚀 Cloud & DevOps Engineer | AWS | Azure | CI/CD | Kubernetes
 
-💡 DevOps Engineer with 2+ years of experience in building scalable infrastructure, automating deployments, and implementing secure DevOps practices.
-
+💡 DevOps Engineer with 3+ years of hands-on experience in building scalable cloud infrastructure, automating end-to-end CI/CD pipelines, and implementing secure and reliable DevOps solutions in production environments.
 ---
 
 ## 🔥 About Me
