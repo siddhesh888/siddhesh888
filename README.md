@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Siddhesh Sawant  
 ### 🚀 Cloud & DevOps Engineer | AWS | Azure | CI/CD | Kubernetes
 
-💡 DevOps Engineer with 3+ years of hands-on experience in building scalable cloud infrastructure, automating end-to-end CI/CD pipelines, and implementing secure and reliable DevOps solutions in production environments.
+💡 DevOps Engineer with 3+ years of hands-on experience in scalable cloud infrastructure, CI/CD automation, and secure production deployments.
+
 ---
 
 ## 🔥 About Me
@@ -46,10 +47,23 @@ Git · GitHub · GitLab
 - 📊 Built **monitoring & alerting systems** using Prometheus & Grafana  
 
 ---
+
+## 📈 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhesh888&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=siddhesh888&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh888&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhesh888&theme=tokyo-night)
+
+---
+
 ## 📫 Let's Connect!
 - 💼 LinkedIn: https://www.linkedin.com/in/siddhesh-sawant-37a919193/  
 - 📧 Email: siddheshsawant888@gmail.com  
-- 🌐 Portfolio:  
+- 🌐 Portfolio: *(Add your portfolio link here)*  
 
 ---
 
