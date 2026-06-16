@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siddhesh Sawant
 
-### 🚀 Senior DevOps & Cloud Engineer | AWS • Azure • Kubernetes • DevSecOps • Platform Engineering
+### 🚀 DevOps & Cloud Engineer | AWS • Azure • Kubernetes • DevSecOps • Platform Engineering
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -176,13 +176,13 @@ Prometheus • Grafana • ELK Stack • CloudWatch • Azure Monitor
 # 📈 GitHub Stats
 
 ```markdown
-<!-- Add these widgets to display GitHub statistics -->
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhesh888&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh888&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhesh888)
+![GitHub Streak](https://streak-stats.demolab.com?user=siddhesh888)
 ```
 
 ---
